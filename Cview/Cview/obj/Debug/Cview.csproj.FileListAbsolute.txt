@@ -1,0 +1,24 @@
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Cview.dll
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Cview.pdb
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\obj\Debug\Cview.MainPage.xaml.g.cs
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\obj\Debug\Cview.App.xaml.g.cs
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\obj\Debug\Cview.dll
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\obj\Debug\Cview.pdb
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\obj\Debug\Cview.onboarding1.xaml.g.cs
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\obj\Debug\Cview.onboarding2.xaml.g.cs
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\obj\Debug\Cview.onboarding.xaml.g.cs
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\obj\Debug\Cview.csprojResolveAssemblyReference.cache
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\obj\Debug\Cview.dll.mdb
+c:\users\rrana\documents\visual studio 2017\Projects\Cview\Cview\Cview\bin\Debug\Cview.dll.mdb
+D:\Cview\Cview\Cview\obj\Debug\Cview.csprojResolveAssemblyReference.cache

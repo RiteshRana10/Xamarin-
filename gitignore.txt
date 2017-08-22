@@ -1,0 +1,7 @@
+/packages
+/Cview/[Bb]in
+/Cview/[Oo]bj
+/Cview.Android/[Bb]in
+/Cview.Android/[Oo]bj
+/Cview.iOS/[Bb]in
+/Cview.iOS/[Oo]bj
